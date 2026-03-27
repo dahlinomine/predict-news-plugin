@@ -1,0 +1,14 @@
+{
+  "name": "predict-news-plugin",
+  "version": "0.1.0",
+  "description": "Browser extension showing market odds next to news headlines",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
